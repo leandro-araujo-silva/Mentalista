@@ -10,7 +10,7 @@
 
 ## Sobre o Projeto
 
-Projeto realizado no ImersãoDev da Alura. 
+Projeto realizado no ImersãoDev da Alura. <br>
 O objetivo do mentalista é acertar o valor selecionado aleatoriamente pela máquina.
 
 ### 🛠 Tecnologias
